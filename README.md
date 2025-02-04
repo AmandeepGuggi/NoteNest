@@ -3,6 +3,9 @@
 ## Overview
 NoteNest is a React-based note-taking application where users can **log in, create, delete, and archive notes** efficiently. With a clean and minimal UI, it ensures an easy and organized note-taking experience.
 
+## Preview 
+https://agnotenest.netlify.app/
+
 ## Features
 - ✅ **User Authentication** – Secure login system to access personal notes.
 - 📝 **Create Notes** – Add and save notes easily.
