@@ -19,7 +19,8 @@ NoteNest is a React-based note-taking application where users can **log in, crea
 - **Firebase / Node.js (Optional)** – For authentication and backend storage
 
 ## Screenshots
-<img width="1440" alt="Screenshot 2025-02-04 at 5 50 25 PM" src="https://github.com/user-attachments/assets/c51eff1c-e9ca-4b21-a858-0ed8d6a02a01" />
+![Uploading noteNest.png…]()
+
 
 
 ## Installation & Setup
