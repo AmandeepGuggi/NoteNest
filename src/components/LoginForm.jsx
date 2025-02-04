@@ -35,9 +35,9 @@ const LoginForm = () => {
             } border rounded-xl shadow-sm`}>
             {!darkMode ? (<img src={logo} alt='logo' className='w-28' />) : (<img src={logo_white} alt='logo' className='w-28' />)}
             <h1 className={`text-2xl font-bold mt-5 tracking-wide ${darkMode ? 'text-white' : 'text-black'
-                }`}>Welcome to Note!</h1>
+                }`}>Welcome to <span className='text-blue-600' >NoteNest </span>!</h1>
             <p className={`font-normal text-sm mt-2 ${darkMode ? 'text-slate-300' : 'text-neutral-600'
-                }`}>Please log to continue</p>
+                }`}>Please log in to continue</p>
 
             <form className='flex flex-col mt-10 w-full' onSubmit={handleSubmit}>
                 <label htmlFor='email' className={`font-medium text-sm ${darkMode ? 'text-white' : 'text-neutral-700'
